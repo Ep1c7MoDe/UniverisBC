@@ -185,4 +185,4 @@ client.on("message", message => { //clear
 
 
 
-client.login(process.env.NTg3MTcyMzQxOTA2Mjc2MzUy.XPys7Q.UbwWmAqGZksKVTZFCx3fESGPh8A);
+client.login(process.env.NTg5MjkyMjkyMTU0NzIwMzM4.XQRjOw.0HUY0ZWRFVxzS8yMhsad4N2oZy8);
